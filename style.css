@@ -1,0 +1,17 @@
+/* Teal accent color */
+.text-teal {
+    color: #008080 !important;
+  }
+  
+  .btn-teal {
+    background-color: #008080;
+    color: white;
+  }
+  
+  .btn-teal:hover {
+    background-color: #006666;
+  }
+  
+  body {
+    background-color: #f8f9fa;
+  }
